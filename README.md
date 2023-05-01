@@ -31,8 +31,8 @@ Front End Developer
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="23"
-      height="23"
+      width="25"
+      height="25"
     />
   </a>
 
@@ -40,8 +40,8 @@ Front End Developer
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="23"
-      height="23"
+      width="25"
+      height="25"
     />
   </a>
 
@@ -49,8 +49,8 @@ Front End Developer
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="23"
-      height="23"
+      width="25"
+      height="25"
     />
   </a>
 
@@ -58,8 +58,8 @@ Front End Developer
     <img
       src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-512.png"
       alt="nodejs"
-      width="23"
-      height="23"
+      width="25"
+      height="25"
     />
  </a>
 
@@ -67,8 +67,8 @@ Front End Developer
     <img
       src="https://cdn.worldvectorlogo.com/logos/pug.svg"
       alt="pug"
-      width="23"
-      height="23"
+      width="25"
+      height="25"
     />
   </a>
 
@@ -76,8 +76,8 @@ Front End Developer
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
-      width="23"
-      height="23"
+      width="25"
+      height="25"
     />
   </a>
 
@@ -85,8 +85,8 @@ Front End Developer
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
-      width="23"
-      height="23"
+      width="25"
+      height="25"
     />
   </a>
 
@@ -94,8 +94,8 @@ Front End Developer
     <img
       src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Wordpress-512.png"
       alt="wordpress"
-      width="23"
-      height="23"
+      width="25"
+      height="25"
     />
   </a>
 </div>
