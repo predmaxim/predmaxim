@@ -1,4 +1,4 @@
-# Hi there 👋 I`am [Maxim Predybailo!](https://app.rs.school/cv/58315524-6026-4500-bc25-626eeb0e5464)
+# Hi there 👋 I`am [Max!](https://app.rs.school/cv/58315524-6026-4500-bc25-626eeb0e5464)
 
 Front End Developer
 
