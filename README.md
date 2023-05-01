@@ -123,7 +123,7 @@ Front End Developer
 * [RSSchool JS/FE Pre-School 2022Q2](https://app.rs.school/certificate/8pc645aw)<br/>
 
 
-### My Last Works on Wordpress:
+### My Latest Work On Wordpress:
 - [City Hospital](https://bbsmp.ru) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
 - [Fast food](https://mrdonald.ru) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
 - [Construction company](https://rsk56.ru/) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
