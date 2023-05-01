@@ -100,10 +100,8 @@ Front End Developer
 
 ###
 
-
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=predmaxim&show_icons=true&theme=dark&count_private=true)
-
 <!--
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=predmaxim&show_icons=true&theme=dark&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=predmaxim&theme=radical&count_private=true&theme=dark)](https://git.io/streak-stats)
 [![Max's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=predmaxim&theme=xcode&height=245&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
