@@ -121,6 +121,17 @@ Front End Developer
 * [RSSchool React 2023 Q1](https://app.rs.school/certificate/8pc645aw)<br/>
 * [RSSchool JavaScript/Front-end 2022Q3](https://app.rs.school/certificate/8pc645aw)<br/>
 * [RSSchool JS/FE Pre-School 2022Q2](https://app.rs.school/certificate/8pc645aw)<br/>
+
+
+### My Last Works on Wordpress:
+- [City Hospital](https://bbsmp.ru) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
+- [Fast food](https://mrdonald.ru) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
+- [Construction company](https://rsk56.ru/) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
+- [Cat breeder](https://royallypurrfect.com/) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
+- [Child Center](https://krugozor56.ru/) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
+- [Fast food](https://xburgers.ru) (Wordpress + Woocommerce + JS + HTML + CSS)
+
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanich123&repo=keyboardTrainer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=predmaxim&repo=prod_in_popup&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
