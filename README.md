@@ -121,10 +121,11 @@ Front End Developer
 * [RSSchool React 2023 Q1](https://app.rs.school/certificate/8pc645aw)<br/>
 * [RSSchool JavaScript/Front-end 2022Q3](https://app.rs.school/certificate/8pc645aw)<br/>
 * [RSSchool JS/FE Pre-School 2022Q2](https://app.rs.school/certificate/8pc645aw)<br/>
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanich123&repo=keyboardTrainer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=predmaxim&repo=prod_in_popup&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=predmaxim&repo=HTML-builder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=predmaxim&repo=rss-online-store&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=predmaxim&repo=RSS-React-online-shop&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=predmaxim&repo=songbird&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
