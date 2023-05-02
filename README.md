@@ -129,7 +129,7 @@ Front End Developer
 - [RSK56 Construction Company](https://rsk56.ru/) (Figma + Wordpress + JS + HTML + CSS)
 - [RoyallyPurrfect Cat breeder](https://royallypurrfect.com/) (Figma + Wordpress + JS + HTML + CSS)
 - [Krugozor Child Center](https://krugozor56.ru/) (Figma + Wordpress + JS + HTML + CSS)
-- [XBurgers Fast food](https://xburgers.ru) (Wordpress + Woocommerce + JS + PHP + HTML + CSS)
+- [XBurgers Fast Food](https://xburgers.ru) (Wordpress + Woocommerce + JS + PHP + HTML + CSS)
 
 
 <!--
