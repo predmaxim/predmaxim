@@ -125,11 +125,11 @@ Front End Developer
 
 ### My Latest Work On Wordpress:
 - [Buzuluk City Hospital](https://bbsmp.ru) (Figma + Wordpress + JS + HTML + CSS)
-- [MrDonald Fast Food](https://mrdonald.ru) (Figma + Wordpress + Woocommerce + JS + HTML + CSS)
+- [MrDonald Fast Food](https://mrdonald.ru) (Figma + Wordpress + Woocommerce + PHP + JS + HTML + CSS)
 - [RSK56 Construction Company](https://rsk56.ru/) (Figma + Wordpress + JS + HTML + CSS)
 - [RoyallyPurrfect Cat breeder](https://royallypurrfect.com/) (Figma + Wordpress + JS + HTML + CSS)
 - [Krugozor Child Center](https://krugozor56.ru/) (Figma + Wordpress + JS + HTML + CSS)
-- [XBurgers Fast food](https://xburgers.ru) (Wordpress + Woocommerce + JS + HTML + CSS)
+- [XBurgers Fast food](https://xburgers.ru) (Wordpress + Woocommerce + JS + PHP + HTML + CSS)
 
 
 <!--
