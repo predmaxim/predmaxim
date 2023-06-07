@@ -118,9 +118,9 @@ Front End Developer
 
 ### My Education:
 
-* [RSSchool React 2023 Q1](https://app.rs.school/certificate/8pc645aw)<br/>
+* [RSSchool React 2023 Q1](https://app.rs.school/certificate/1ra3f5ks)<br/>
 * [RSSchool JavaScript/Front-end 2022Q3](https://app.rs.school/certificate/8pc645aw)<br/>
-* [RSSchool JS/FE Pre-School 2022Q2](https://app.rs.school/certificate/8pc645aw)<br/>
+* RSSchool JS/FE Pre-School 2022Q2<br/>
 
 
 ### My Latest Works:
