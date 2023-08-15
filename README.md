@@ -124,12 +124,13 @@ Frontend Software Engineer
 
 
 ### My Latest Works:
-- [Buzuluk City Hospital](https://bbsmp.ru) (Figma + Wordpress + JS + HTML + CSS)
-- [MrDonald Fast Food](https://mrdonald.ru) (Figma + Wordpress + Woocommerce + PHP + JS + HTML + CSS)
-- [RSK56 Construction Company](https://rsk56.ru/) (Figma + Wordpress + JS + HTML + CSS)
-- [RoyallyPurrfect Cat breeder](https://royallypurrfect.com/) (Figma + Wordpress + JS + HTML + CSS)
-- [Krugozor Child Center](https://krugozor56.ru/) (Figma + Wordpress + JS + HTML + CSS)
-- [XBurgers Fast Food](https://xburgers.ru) (Wordpress + Woocommerce + JS + PHP + HTML + CSS)
+- [House of culture]([https://дк-юбилейный.рф) (Figma, Wordpress, JS, CSS)
+- [Buzuluk City Hospital](https://bbsmp.ru) (Figma, Wordpress, JS, CSS)
+- [MrDonald Fast Food](https://mrdonald.ru) (Figma, Wordpress, Woocommerce, PHP, JS, HTML, CSS)
+- [RSK56 Construction Company](https://rsk56.ru/) (Figma, Wordpress, JS, CSS)
+- [RoyallyPurrfect Cat breeder](https://royallypurrfect.com/) (Figma, Wordpress, JS, CSS)
+- [Krugozor Child Center](https://krugozor56.ru/) (Figma, Wordpress, JS, CSS)
+- [XBurgers Fast Food](https://xburgers.ru) (Wordpress, Woocommerce, JS, PHP, HTML, CSS)
 
 
 <!--
