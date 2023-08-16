@@ -123,7 +123,7 @@ Frontend Software Engineer
 * RSSchool JS/FE Pre-School 2022Q2<br/>
 
 
-### My Latest Works:
+### My Latest Works On Wordpress:
 - [House of culture](https://дк-юбилейный.рф) (Figma, Wordpress, JS, CSS)
 - [Buzuluk City Hospital](https://bbsmp.ru) (Figma, Wordpress, JS, CSS)
 - [MrDonald Fast Food](https://mrdonald.ru) (Figma, Wordpress, Woocommerce, PHP, JS, HTML, CSS)
