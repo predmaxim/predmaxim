@@ -133,7 +133,7 @@ Frontend Software Engineer
 - [XBurgers Fast Food](https://xburgers.ru) (Wordpress, Woocommerce, JS, PHP, HTML, CSS)
 
 
-### My Latest Works On JS / React 👇
+### My Latest Works On JavaScript / React 👇
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanich123&repo=keyboardTrainer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
