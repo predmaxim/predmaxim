@@ -125,7 +125,7 @@ Frontend Software Engineer
 
 ### My Latest Works On Wordpress:
 - [House of culture](https://дк-юбилейный.рф) (Figma, Wordpress, JS, CSS)
-- [Buzuluk City Hospital](https://bbsmp.ru) (Figma, Wordpress, JS, CSS)
+- [City Hospital](https://bbsmp.ru) (Figma, Wordpress, JS, CSS)
 - [MrDonald Fast Food](https://mrdonald.ru) (Figma, Wordpress, Woocommerce, PHP, JS, HTML, CSS)
 - [RSK56 Construction Company](https://rsk56.ru) (Figma, Wordpress, JS, CSS)
 - [RoyallyPurrfect Cat breeder](https://royallypurrfect.com) (Figma, Wordpress, JS, CSS)
