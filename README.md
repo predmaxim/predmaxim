@@ -116,13 +116,6 @@ Frontend Software Engineer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=predmaxim&theme=github_dark)
 -->
 
-### My Education:
-
-* [RSSchool React 2023 Q1](https://app.rs.school/certificate/1ra3f5ks)<br/>
-* [RSSchool JavaScript/Front-end 2022Q3](https://app.rs.school/certificate/8pc645aw)<br/>
-* RSSchool JS/FE Pre-School 2022Q2<br/>
-
-
 ### My Latest Works On Wordpress:
 - [House of culture](https://дк-юбилейный.рф) (Figma, Wordpress, JS, CSS)
 - [City Hospital](https://bbsmp.ru) (Figma, Wordpress, JS, CSS)
