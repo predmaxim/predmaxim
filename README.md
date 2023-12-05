@@ -3,9 +3,3 @@
 Frontend Software Engineer
 
 [![codewars](https://www.codewars.com/users/predmaxim/badges/micro)](https://www.codewars.com/users/predmaxim)
-
-#
-
-### My Stack:
-
-- JS / TS / React / Next.js
